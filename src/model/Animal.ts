@@ -1,7 +1,7 @@
-class Animal {
-    private nome: string;
-    private idade: number;
-    private genero: string;
+export class Animal {
+    public nome: string;
+    public idade: number;
+    public genero: string;
 
     constructor(_nome: string, _idade: number, _genero: string) {
         this.nome = _nome;
