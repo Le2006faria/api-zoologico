@@ -1,4 +1,4 @@
-import { Atracao } from "./atracao";
+import { Atracao } from "./Atracao";
 
 /**
  * Representa um zoológico, que contém uma lista de atrações.
