@@ -63,7 +63,7 @@ export class Animal {
     /**
      * Método para definir o gênero do animal.
      * @param _genero Novo gênero do animal.
-     */
+     */ 
     public setGenero(_genero: string) {
         this.genero = _genero;
     }
